@@ -35,7 +35,7 @@ pytest-instafail = "^0.4.2"
 freezegun = "^1.0.0"
 codecov = "^2.1.11"
 coverage = {extras = ["toml"], version = "^5.3"}
-ipython = "^7.19.0"
+ipython = "^8.10.0"
 pre-commit = "^2.9.3"
 Sphinx = "^3.4.1"
 sphinx-sitemap = "^2.2.0"
